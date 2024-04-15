@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm a passionate MERN Stack Developer from Pakistan M Ahrar Hussain</h1>
+<h1 align="center">Hi 👋, I'm a passionate MERN Stack Developer from Pakistan </h1>
+<h2 align="center"> M Ahrar Hussain</h2>
 <h3 align="center">Eat, Sleep and Code, Repeat</h3>
 <img  align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahrarhussain&label=Profile%20views&color=0e75b6&style=flat" alt="mahrarhussain" /> </p>
