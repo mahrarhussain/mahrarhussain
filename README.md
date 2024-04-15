@@ -3,7 +3,7 @@
 <h2 align="center"> M Ahrar Hussain</h2>
 <div>
 <h3 align="center">Eat, Sleep and Code, Repeat</h3>
-<img  align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahrarhussain&label=Profile%20views&color=0e75b6&style=flat" alt="mahrarhussain" /> </p>
 
@@ -54,7 +54,6 @@
 <a href="https://github.com/mahrarhussain">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahrarhussain&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahrarhussain&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahrarhussain&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahrarhussain&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
