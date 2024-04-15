@@ -1,10 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm a passionate MERN Stack Developer from Pakistan M Ahrar Hussain</h1>
 <h3 align="center">Eat, Sleep and Code, Repeat</h3>
-<img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img  align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahrarhussain&label=Profile%20views&color=0e75b6&style=flat" alt="mahrarhussain" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahrarhussain&theme=" alt="mahrarhussain" /></a> </p>
 
 - 🔭 I’m currently working on **Digital Dividend**
 - 🌱 I’m currently learning **nextjs and many more**
@@ -52,7 +50,6 @@
 <div align="center">
 <a href="https://github.com/mahrarhussain">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahrarhussain&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahrarhussain&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahrarhussain&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahrarhussain&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahrarhussain&theme=2077" height="180em" />
