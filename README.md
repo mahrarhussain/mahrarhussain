@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahrarhussain&label=Profile%20views&color=0e75b6&style=flat" alt="mahrarhussain" /> </p>
 
 - 🔭 I’m currently working on **Digital Dividend**
-- 🌱 I’m currently learning **nextjs and many more**
+- 🌱 I’m currently creating ** intermediate nextjs projects with typescript and many more**
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **mahrarhussain9@gmail.com**
 - 👨‍💻 All of my projects are available at **https://portfolioofahrar.netlify.app/**
