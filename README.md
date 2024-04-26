@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/ahrarhussain007/image/upload/v1714147704/zwryunfmetamrbphcpgq.gif" width="100%" height="40%" />
+<img src="https://res.cloudinary.com/ahrarhussain007/image/upload/v1714147704/zwryunfmetamrbphcpgq.gif" width="100%" maxHeight="40%" />
 <h1 align="center">Hi 👋, I'm a passionate MERN Stack Developer </h1>
 <h2 align="center"> M Ahrar Hussain</h2>
 <div>
