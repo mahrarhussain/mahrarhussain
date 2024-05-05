@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm a passionate MERN Stack Developer </h1>
 <h2 align="center"> M Ahrar Hussain</h2>
 <div>
-<h3 align="center">Eat, Sleep and Code, Repeat</h3>
+<h3 align="center">Eat, Sleep, Code and Repeat</h3>
 <img  align="right" alt="Coding" width="400" src="https://res.cloudinary.com/ahrarhussain007/image/upload/v1714147710/orat84212vganer7dn5q.gif" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahrarhussain&label=Profile%20views&color=0e75b6&style=flat" alt="mahrarhussain" /> </p>
