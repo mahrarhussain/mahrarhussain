@@ -11,7 +11,7 @@
 - 🌱 I’m currently creating ** intermediate nextjs projects with typescript and many more**
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **mahrarhussain9@gmail.com**
-- 👨‍💻 All of my projects are available at **https://portfolioofahrar.netlify.app/**
+- 👨‍💻 All of my projects are available at **https://portfolioofahrar.vercel.app/**
 
 <div> <a href="https://www.linkedin.com/in/m-ahrar-hussain-1b7b23218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/mahrarhussain" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
