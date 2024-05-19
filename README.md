@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/ahrarhussain007/image/upload/v1714267865/lconmxixztmxrdvi854z.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm a passionate MERN Stack Developer </h1>
 <h2 align="center"> M Ahrar Hussain</h2>
 <div>
