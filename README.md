@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm a passionate MERN Stack Developer </h1>
+<h1 align="center">Hi 👋, I'm a passionate Full Stack Developer </h1>
 <h2 align="center"> M Ahrar Hussain</h2>
 <div>
 <h3 align="center">Eat, Sleep, Code and Repeat</h3>
@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahrarhussain&label=Profile%20views&color=0e75b6&style=flat" alt="mahrarhussain" /> </p>
 
 - 🔭 I’m currently working on **Digital Dividend**
-- 🌱 I’m currently creating ** intermediate nextjs projects with typescript and many more**
-- 💬 Ask me about **MERN**
+- 🌱 I’m currently creating **Nestjs - PostgreSQl** project
+- 💬 Ask me about **TECH**
 - 📫 How to reach me **mahrarhussain9@gmail.com**
 - 👨‍💻 All of my projects are available at **https://portfolioofahrar.vercel.app/**
 
